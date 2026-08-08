@@ -1,5 +1,7 @@
+<!-- Special Profile README for ncthuc2004 -->
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Nguyen%20Cong%20Thuc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20from%20Viet%20Nam%20🇻🇳%20(Kaius)&descAlignY=55&descAlign=50" width="100%"/>
+
 
 <p align="center">
   <a href="https://github.com/ncthuc2004">
