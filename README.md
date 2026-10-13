@@ -1,17 +1,17 @@
-<!-- Special Profile README for ncthuc2004 -->
+<!-- Special Profile README for congthuc007 -->
 <!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Nguyen%20Cong%20Thuc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20from%20Viet%20Nam%20🇻🇳%20(Kaius)&descAlignY=55&descAlign=50" width="100%"/>
 
 
 <p align="center">
-  <a href="https://github.com/ncthuc2004">
+  <a href="https://github.com/congthuc007">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Fullstack+Developer+💻;React+%26+Next.js+Specialist+⚛️;Node.js+%26+TypeScript+🚀;Always+Learning+%26+Building+🌱" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ncthuc2004">
-    <img src="https://komarev.com/ghpvc/?username=ncthuc2004&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=333" alt="Profile Views" />
+  <a href="https://github.com/congthuc007">
+    <img src="https://komarev.com/ghpvc/?username=congthuc007&label=Profile%20views&color=0e75b6&style=for-the-badge&labelColor=333" alt="Profile Views" />
   </a>
 </p>
 
@@ -66,20 +66,20 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
   <tr>
     <td align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/ncthuc2004">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=ncthuc2004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <a href="https://github.com/congthuc007">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=congthuc007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </a>
     </td>
     <td align="center" valign="middle" style="border: none;">
-      <a href="https://github.com/ncthuc2004">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ncthuc2004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <a href="https://github.com/congthuc007">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=congthuc007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 <p align="center">
-  <a href="https://github.com/ncthuc2004">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncthuc2004&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/congthuc007">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=congthuc007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -96,6 +96,9 @@
   </a>
   <a href="https://www.facebook.com/kaius.567">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.tiktok.com/@cthuc0308">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.upwork.com/freelancers/~018eff6c18a8bc2715?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
